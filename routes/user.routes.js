@@ -20,3 +20,9 @@ export default userRouter;
 
 // #Database
 // DB_URI = "mongodb+srv://ouss:ouss@cluster0.ztmpgxv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+
+
+
+// #JWT AUTH
+// JWT_SECRET = "ouss"
+// JWT_EXPIRES_IN = "1d"
